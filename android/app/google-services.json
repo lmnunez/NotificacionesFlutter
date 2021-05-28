@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1072024986343",
+    "project_id": "flutterpush-a3610",
+    "storage_bucket": "flutterpush-a3610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072024986343:android:a2a34d5a71b53e42f8b842",
+        "android_client_info": {
+          "package_name": "com.example.pushflutter"
+        }
+      },
+      
+      "oauth_client": [
+        {
+          "client_id": "1072024986343-2cl20boo00skfathmtv8n2jr9m8622qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYs5xiXBz2WUMyWSQ9gMDZrrDUP5WKzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072024986343-2cl20boo00skfathmtv8n2jr9m8622qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072024986343:android:0b9375932db1e1abf8b842",
+        "android_client_info": {
+          "package_name": "com.example.topicos_notificacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072024986343-2cl20boo00skfathmtv8n2jr9m8622qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdYs5xiXBz2WUMyWSQ9gMDZrrDUP5WKzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072024986343-2cl20boo00skfathmtv8n2jr9m8622qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
